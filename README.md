@@ -22,4 +22,4 @@ This project is licensed under the CC0 1.0 Universal License - see the [LICENSE]
 
 ## Acknowledgments
 
-I would like to thank [PurpleBooth](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for a great ReadMe template.
+I would like to thank [PurpleBooth](https://gist.github.com/PurpleBooth/) for a great ReadMe template.
