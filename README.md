@@ -18,7 +18,7 @@ See also the list of [contributors](https://github.com/nikolai-neustroev/telegra
 
 ## License
 
-This project is licensed under the CC0 1.0 Universal License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the CC0 1.0 Universal License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
